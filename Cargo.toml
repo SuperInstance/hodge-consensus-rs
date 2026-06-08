@@ -1,0 +1,5 @@
+[package]
+name = "hodge-consensus"
+version = "0.1.0"
+edition = "2021"
+description = "Hodge decomposition of agent disagreements"
